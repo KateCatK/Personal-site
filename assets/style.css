@@ -1,0 +1,32 @@
+body{
+    background-color: #f1f6f9;
+}
+
+hr {
+    width: 50px;
+    border-top: 10px dotted #14274e;
+}
+
+#personal_info{
+    font-size: 22pt; 
+    width: 1050px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+
+.personal{
+    font-size: 10pt;
+}
+
+#personal_info strong{
+    font-style: italic;
+}
+
+.about{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23pt;
+}
+
+.contact{
+    text-decoration: none;
+}
