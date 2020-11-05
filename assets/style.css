@@ -30,3 +30,7 @@ hr {
 .contact{
     text-decoration: none;
 }
+
+.contact:hover{
+    background-color: #768dbd;
+}
